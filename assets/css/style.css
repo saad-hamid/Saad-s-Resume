@@ -14,7 +14,7 @@ body{
 }
 
 .page-navbar.navbar-dark .navbar-nav .nav-link {
-    color: #fff;
+    color: #ffffff;
 }
 
 .page-navbar .logo{
@@ -27,7 +27,7 @@ body{
 
 .download-template{
     color: #fff;
-    background-color: #3f3e3f;
+    background-color: #12232f;
     border: none;
     font-weight: bold;
     text-transform: uppercase;
@@ -37,7 +37,7 @@ body{
 }
 
 .download-template:hover{
-    background-color: #fb5ec4;
+    background-color: #254c66;
 }
 
 .gradient{
@@ -71,7 +71,13 @@ body{
 .cv-block.block-intro .btn {
   padding: 0.375rem 1rem;
   border-radius: 2em;
+  background-color: #254c66;
  }
+ .cv-block.block-intro .btn.hover {
+    padding: 0.375rem 1rem;
+    border-radius: 2em;
+    background-color: #254c66;
+   }
 
 .cv-block.block-intro .avatar{
     width: 150px;
@@ -124,7 +130,7 @@ body{
 
 .cv-block.info .group .organization{
     font-size: 0.85em;
-    background-color: #2a5a7a;
+    background-color: #254c66;
     display: inline-block;
     color: #fff;
     padding: 2px 8px;
@@ -132,7 +138,7 @@ body{
 }
 
 .cv-block.info .education.group .organization{
-    background-color: #2a5a7a; 
+    background-color: #254c66; 
 }
 
 .cv-block.info .group .item{
@@ -216,7 +222,7 @@ body{
 .page-footer .social-icons a{
     font-size: 18px;
     margin: 0 3px;
-    color: #ffffff;
+    color: black;
     border: 1px solid;
     opacity: 0.75;
     border-radius: 50%;
@@ -224,7 +230,7 @@ body{
     display: inline-block;
     height: 36px;
     text-align: center;
-    background-color: #c5c9d2;
+    background-color: #ffffff;
     line-height: 34px;
 }
 
